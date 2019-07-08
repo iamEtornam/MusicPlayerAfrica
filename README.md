@@ -13,8 +13,9 @@
 ## Art
 
 
-<table style="width:100%">
+<table style="width:100%; color: black;">
   <tr>
+  </br>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_1.png" width="200" height="400"/></td>
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_2.png" width="200" height="400"/></td>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_3.png" width="200" height="400"/></td>
