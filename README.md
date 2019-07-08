@@ -10,8 +10,6 @@
 
 </p>
 
-This project is an implementation of a Design i found on [Uplabs.com](https://www.uplabs.com/posts/wallet-app-iphones) by [Subramanian](https://www.uplabs.com/subhu)
-
 ## Art
 
 
@@ -21,11 +19,13 @@ This project is an implementation of a Design i found on [Uplabs.com](https://ww
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_2.png" width="200" height="400"/></td>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_3.png" width="200" height="400"/></td>
   </tr>
+  <br>
   <tr>
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_4.png" width="200" height="400"/></td>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_5.png" width="200" height="400"/></td>
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_6.png" width="200" height="400"/></td>
   </tr>
+  <br>
   <tr>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_7.png" width="200" height="400"/></td>
   </tr>
