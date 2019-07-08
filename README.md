@@ -19,26 +19,19 @@
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_2.png" width="200" height="400"/></td>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_3.png" width="200" height="400"/></td>
   </tr>
-  <br>
+  </br>  
   <tr>
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_4.png" width="200" height="400"/></td>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_5.png" width="200" height="400"/></td>
     <td><img src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_6.png" width="200" height="400"/></td>
   </tr>
-  <br>
+  </br>
   <tr>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_7.png" width="200" height="400"/></td>
   </tr>
+  </br>
+
 </table>
-
-
-
-
-
-
-
-
-
 
 
 ## Getting Started
@@ -116,11 +109,6 @@ What things you need to run the app
 - [**Twitter**](https://twitter.com/_regnex)
 - [**Linkedin**](https://linkedin.com/in/etornam-sunu)
 
-## Inspiration
-
-**Subramanian**
-
-- [**Subramanian**](https://www.uplabs.com/subhu)
 
 ## License
 
