@@ -13,7 +13,7 @@
 ## Art
 
 
-<table style="width:100%; color: black;">
+<table style="width:100%" bgcolor="black">
   <tr>
   </br>
     <td><img align="left" src="https://raw.githubusercontent.com/RegNex/MusicPlayerAfrica/master/screenshot/art_1.png" width="200" height="400"/></td>
