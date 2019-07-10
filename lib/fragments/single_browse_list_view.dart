@@ -55,7 +55,7 @@ class SingleBrowseListView extends StatelessWidget {
                                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold), ),
                             ),
                             SizedBox(height: 5, ),
-                            Text('${songs[index][3]}}',
+                            Text('${songs[index][3]}',
                               textAlign: TextAlign.left,
                               style: TextStyle(color: Colors.black45), )
                           ],
