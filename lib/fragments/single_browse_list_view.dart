@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:music_player_africa/pages/artist_song_list.dart';
+import 'package:music_player_africa/pages/song_display_page.dart';
 
 
 class SingleBrowseListView extends StatelessWidget {
@@ -21,7 +21,7 @@ class SingleBrowseListView extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (context) => ArtistSongList(songs: songs[index], ),
+                builder: (context) => SongDisplayPage(songs: songs[index], ),
               ),
             );
           },
@@ -68,7 +68,7 @@ class SingleBrowseListView extends StatelessWidget {
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => ArtistSongList(songs: songs[index], ),
+                                    builder: (context) => SongDisplayPage(songs: songs[index], ),
                                   ),
                                 );
                               },
